@@ -30,7 +30,7 @@
   <a href="https://github.com/Amir2417">
     <img src="https://github-readme-stats.vercel.app/api?username=Amir2417&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir2417&theme=github-dark-blue&hide_border=true" />
-    <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Amir2417&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+    <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Amir2417&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Amir Sohel Akash's Top Languages">
     <img src="https://activity-graph.herokuapp.com/graph?username=Amir2417&theme=react-dark" />
   </a>
 </p>
