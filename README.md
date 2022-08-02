@@ -23,11 +23,10 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amir2417&theme=algolia" alt="candida18" /></p>
 ---
-https://visitcount.itsvg.in/api?id=Amir2417&icon=0&color=0)](https://visitcount.itsvg.in
+
   <p align="center">
   <a href="https://github.com/Amir2417">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amir2417&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir2417&theme=github-dark-blue&hide_border=true" />
+    
     <img src="https://activity-graph.herokuapp.com/graph?username=Amir2417&theme=react-dark" />
   </a>
 </p> 
