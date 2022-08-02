@@ -24,12 +24,21 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amir2417&theme=algolia" alt="candida18" /></p>
 ---
 
-  <p align="center">
+  # 📈 Statistics 📈
+![](https://komarev.com/ghpvc/?username=Amir2417&color=447ff7&label=Visitor+count)
+
+<p align="center">
   <a href="https://github.com/Amir2417">
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=Amir2417&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir2417&theme=github-dark-blue&hide_border=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=Amir2417&theme=react-dark" />
   </a>
-</p> 
+</p>
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
   
 
 
